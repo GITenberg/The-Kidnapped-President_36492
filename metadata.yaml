@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3587
     wikipedia: http://en.wikipedia.org/wiki/Guy_Boothby
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36492#The-Kidnapped-President
 gutenberg_issued: '2011-06-22'
 gutenberg_type: Text
 identifiers:
