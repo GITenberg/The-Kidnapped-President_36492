@@ -1,0 +1,39 @@
+_repo: The-Kidnapped-President_36492
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boothby, Guy
+    alias: Boothby, Guy Newell
+    birthdate: 1867
+    deathdate: 1905
+    gutenberg_agent_id: '3587'
+    url: http://www.gutenberg.org/2009/agents/3587
+    wikipedia: http://en.wikipedia.org/wiki/Guy_Boothby
+description: ''
+gutenberg_issued: '2011-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36492'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- South America -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'South America -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Seafaring life -- Fiction'
+title: The Kidnapped President
+url: http://www.gutenberg.org/ebooks/36492
